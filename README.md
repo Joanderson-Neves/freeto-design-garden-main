@@ -35,3 +35,9 @@ Desenvolvedor e Designer apaixonado por criar experiências digitais impactantes
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](markdown) para mais detalhes.
+
+![image](https://github.com/user-attachments/assets/82bea7fd-8ba6-4f4d-a55e-3135ae108ecc)
+![image](https://github.com/user-attachments/assets/cf6b794f-2004-46fc-91bb-440513e42509)
+![image](https://github.com/user-attachments/assets/3514cfb8-86b8-4a5f-97ec-5e0941ef7a59)
+![image](https://github.com/user-attachments/assets/0c05d526-ff8e-4431-a33d-298c21637c14)
+
